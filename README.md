@@ -8,8 +8,8 @@ LOGIN CREDENTIALS:
     student ID: 203
     password: 123
     
-    student ID: 103,
-    password: 12345,
+    student ID: 103
+    password: 12345
  
     student ID: 230
     password: q1w2e3
