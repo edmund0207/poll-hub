@@ -17,9 +17,9 @@ LOGIN CREDENTIALS:
     
 ## DESIGN    
 Non-opertional features are included to provide the user with the entire scope of the project
-  -[forgot password
-  -[floating action button
-  -[G.E.S.A and biological science results button
+  - [forgot password
+  - [floating action button
+  - [G.E.S.A and biological science results button
   
 A few resources to get you started if this is your first Flutter project:
 
